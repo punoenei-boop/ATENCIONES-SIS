@@ -1,0 +1,5 @@
+{
+  "name": "SIS Attention Dashboard",
+  "description": "Dashboard para analizar las atenciones realizadas por el Seguro Integral de Salud (SIS) desde archivos Excel.",
+  "requestFramePermissions": []
+}
